@@ -1,0 +1,12 @@
+package Lab6;
+
+public abstract class Instrument {
+
+
+public abstract void Play();
+
+
+
+}
+
+
